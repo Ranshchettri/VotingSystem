@@ -1,7 +1,7 @@
 # Nepal Online Voting System 🇳🇵  
 
 Nepal Online Voting System is a full-stack, multi-portal election platform built for secure and transparent digital voting workflows.
-     
+    
 This project includes separate experiences for:
 - 👨‍💼 Admin (election control and monitoring)
 - 🗳️ Voter (identity verification and voting)
