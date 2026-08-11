@@ -1,7 +1,7 @@
 # 🗳️ Nepal Online Voting System — Full Stack Election Platform
 
 <p>
-  <img src="https://img.shields.io/badge/FRONTEND-REACT-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />                                
+  <img src="https://img.shields.io/badge/FRONTEND-REACT-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />                               
   <img src="https://img.shields.io/badge/BACKEND-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/API-EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/DATABASE-MONGODB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
